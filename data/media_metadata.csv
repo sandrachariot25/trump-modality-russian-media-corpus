@@ -1,0 +1,161 @@
+media_id,statement_id,outlet,publication_date,article_title,article_url,matching_confidence,verification_status
+M01,S01,Интерфакс,2017-01-20,Инаугурационная речь Дональда Трампа,https://www.interfax.ru/world/546313,high,verified_page
+M02,S02,Ведомости,2018-03-02,"Дональд Трамп: «Торговые войны – это хорошо, и их легко выиграть»",https://www.vedomosti.ru/economics/articles/2018/03/02/752604-tramp-obvalil-rinki,high,verified_page
+M03,S03,Ведомости,2019-06-21,Трамп объяснил решение отменить удар по Ирану,https://www.vedomosti.ru/politics/news/2019/06/21/804772-tramp-iranu,high,verified_index_excerpt
+M04,S04,РБК,2020-01-08,Трамп оставил без военного ответа «аккуратную пощечину» Ирана,https://www.rbc.ru/politics/08/01/2020/5e15aaa99a7947b00e632b06,high,verified_page
+M05,S07,Коммерсантъ,2025-01-20,Трампическая сила,https://www.kommersant.ru/doc/7444290,high,verified_page
+M06,S08,РБК,2025-01-20,Трамп пообещал «исторические указы» для «революции здравого смысла»,https://www.rbc.ru/rbcfreenews/678e86d59a794749e480c75f,high,verified_page
+M07,S09,Ведомости,2025-01-22,Трамп пригрозил санкциями на весь российский экспорт из-за Украины,https://www.vedomosti.ru/politics/articles/2025/01/22/1087786-tramp-prigrozil-sanktsiyami-na-ves-rossiiskii-eksport,high,verified_page
+M08,S09,Интерфакс,2025-01-23,В Кремле не увидели новизны в угрозах Трампа,https://www.interfax.ru/russia/1004271,high,verified_page
+M09,S10,РБК,2025-04-03,Трамп назвал сроки начала действия тарифов,https://www.rbc.ru/politics/03/04/2025/67edad799a7947fd1ea4c083,high,verified_page
+M10,S11,Ведомости,2025-04-09,Трамп призвал закупаться акциями на фоне падения котировок,https://www.vedomosti.ru/politics/news/2025/04/09/1103403-tramp-prizval-zakupatsya,high,verified_page
+M11,S12,Коммерсантъ,2025-04-09,Трамп: США немедленно повышают пошлины в отношении Китая до 125%,https://www.kommersant.ru/doc/7641504,high,verified_page
+M12,S12,Интерфакс,2025-04-09,Трамп объявил о повышении пошлин на товары из Китая до 125%,https://www.interfax.ru/business/1020115,high,verified_page
+M13,S07,РБК,2025-01-20,Трамп объявил о начале «золотого века Америки»,https://www.rbc.ru/politics/20/01/2025/678e84119a79470f6b6639a5,high,verified_index_excerpt
+M14,S13,Интерфакс,2017-08-08,"Трамп пообещал КНДР ответить ""огнем и яростью"" в случае угрозы для США",https://www.interfax.ru/world/574102,high,verified_index_excerpt
+M15,S13,РБК,2017-08-08,Трамп пообещал ответить «огнем» на угрозы со стороны КНДР,https://amp.rbc.ru/rbcnews/rbcfreenews/598a12ae9a79470f19b49c7e,high,verified_index_excerpt
+M16,S14,Интерфакс-Украина,2019-06-18,"Трамп не хочет военных действий против Ирана, но готов применить силу в случае риска ядерной угрозы",https://ru.interfax.com.ua/news/political/594636.html,high,verified_index_excerpt
+M17,S15,Интерфакс,2026-01-21,"Трамп заверил, что не будет применять силу для получения контроля над Гренландией",https://www.interfax.ru/world/1068805,high,verified_page
+M18,S16,Интерфакс,2017-09-19,Трамп счел часть стран мира находящимися на пути в ад,https://www.interfax.ru/world/579726,high,verified_page
+M19,S17,Ведомости,2017-12-06,Трамп объявил о признании Иерусалима столицей Израиля,https://www.vedomosti.ru/politics/news/2017/12/06/744407-tramp-izrailya,high,verified_page
+M20,S18,Настоящее Время,2018-07-17,Трамп объяснил оговоркой свои слова о России и вмешательстве в выборы,https://www.currenttime.tv/a/29372597.html,high,verified_index_excerpt
+M21,S19,РБК,2018-05-08,Трамп решил выйти из ядерной сделки с Ираном,https://www.rbc.ru/politics/08/05/2018/5af19a9c9a79477f328b292b?from=right_column_materials_1,high,verified_index_excerpt
+M22,S20,Интерфакс,2020-03-12,Трамп на 30 дней запретил въезд из Европы в США,https://www.interfax.ru/world/698712,high,verified_page
+M23,S21,Интерфакс,2020-05-29,Трамп объявил о разрыве отношений США c ВОЗ,https://www.interfax.ru/world/710979,high,verified_index_excerpt
+M24,S22,Голос Америки,2025-03-05,Президент Трамп: «Америка вернулась!»,https://www.golosameriki.com/a/u-s-president-trump-delivers-a-speech-to-a-joint-session-of-congress/7998311.html,high,verified_page
+M25,S23,РБК,2025-02-05,"Трамп заявил, что США «займут сектор Газа»",https://www.rbc.ru/politics/05/02/2025/67a2af139a7947f648cb9332?from=right_column_materials_2,high,verified_index_excerpt
+M26,S24,РБК,2025-02-28,Трамп повысил голос на Зеленского и обвинил в неуважении к США,https://www.rbc.ru/politics/28/02/2025/67c1f3819a7947a2c1030daf?from=from_main_4,high,verified_page
+M27,S25,Интерфакс,2025-06-22,Трамп заявил о полном уничтожении трех ключевых ядерных объектов Ирана,https://www.interfax.ru/world/1032554,high,verified_page
+M28,S26,Deutsche Welle,2025-08-16,Трамп по итогам переговоров с Путиным: Пока сделки нет,https://amp.dw.com/ru/tramp-po-itogam-peregovorov-s-putinym-poka-sdelki-net/a-73664018,high,verified_index_excerpt
+M29,S27,Kazinform,2026-02-25,"Протест демократов, обращение к Ирану: о чем говорил Трамп в послании Конгрессу",https://www.inform.kz/ru/protest-demokratov-obrashenie-kiranu-o-chem-govoril-tramp-v-poslanii-kongressu-0e25ac,high,verified_page
+M30,S28,ИноСМИ,2026-09-22,Выступление Дональда Трампа на Генеральной Ассамблее ООН,https://inosmi.ru/20260922/tramp-280290031.html,high,verified_page
+M31,S29,Интерфакс,2020-01-06,Трамп не исключает непропорциональный ответ в случае иранских атак,https://www.interfax-russia.ru/military/news/524853,high,verified_index_excerpt
+M32,S30,РБК,2018-08-31,Трамп пригрозил выходом США из ВТО,https://www.rbc.ru/politics/31/08/2018/5b885a619a794700ed07d522?from=right_column_materials_1,high,verified_index_excerpt
+M33,S31,Интерфакс,2019-06-13,"Трамп заявил, что воспользовался бы иностранным компроматом на соперников",https://www.interfax.ru/world/664975,high,verified_index_excerpt
+M34,S32,Интерфакс,2025-04-25,"Трамп заявил, что Крым останется с Россией по итогам урегулирования на Украине",https://www.interfax.ru/amp/1022769,high,verified_index_excerpt
+M35,S33,Интерфакс,2026-06-21,Трамп продолжил нападки на Мелони,https://www.interfax.ru/world/1097363,high,verified_page
+M36,S34,Интерфакс,2026-02-25,Трамп предпочел бы не допустить получения ядерного оружия Ираном без применения силы,https://www.interfax.ru/amp/1074471,high,verified_page
+M37,S35,Интерфакс,2018-06-12,Трамп рассказал об итогах своей встречи с Ким Чен Ыном,https://m.interfax.ru/616647,high,verified_index_excerpt
+M38,S36,ERR,2017-06-01,Трамп заявил о выходе США из Парижского соглашения по климату,https://rus.err.ee/599657/tramp-zajavil-o-vyhode-ssha-iz-parizhskogo-soglashenija-po-klimatu,high,verified_page
+M39,S37,Интерфакс,2025-09-23,"Глава США предположил, что Украина при поддержке ЕС способна ""вернуть свою изначальную территорию""",https://www.interfax.ru/world/1048838,high,verified_page
+M40,S38,Коммерсантъ,2026-03-22,Трамп дал Ирану 48 часов на открытие Ормузского пролива,https://www.kommersant.ru/doc/8532030,high,verified_page
+M41,S37,Коммерсантъ,2025-09-23,Трамп: Украина сможет вернуть все территории и «пойти дальше» при поддержке ЕС,https://www.kommersant.ru/doc/8060424,high,verified_page
+M42,S39,Meduza,2019-07-16,"«Если вы несчастны в США и все время жалуетесь, можете уехать» Трампа обвинили в расизме из-за нападок на «прогрессивных женщин-демократов» в Конгрессе",https://meduza.io/amp/feature/2019/07/16/esli-vy-neschastny-v-ssha-i-vse-vremya-zhaluetes-mozhete-uehat,high,verified_index_excerpt
+M43,S40,РБК,2019-05-21,Трамп заявил о готовности к переговорам и пригрозил Ирану «великой силой»,https://www.rbc.ru/politics/21/05/2019/5ce352059a7947675fe07cf6?from=right_column_materials_3,high,verified_index_excerpt
+M44,S41,РБК,2019-10-07,Трамп пригрозил «разрушить и уничтожить» экономику Турции,https://www.rbc.ru/politics/07/10/2019/5d9b62bc9a79474f495f320c?from=right_column_materials_3,high,verified_index_excerpt
+M45,S42,РБК,2019-07-22,Трамп заявил о готовности выиграть войну в Афганистане за неделю,https://www.rbc.ru/rbcfreenews/5d3613e59a7947bcffef3348?from=right_column_materials_1,high,verified_index_excerpt
+M46,S43,РБК,2017-10-06,Трамп после совещания с военными объявил «о затишье перед бурей»,https://www.rbc.ru/politics/06/10/2017/59d6ebee9a79476d6e4171a2?from=right_column_materials_2,high,verified_index_excerpt
+M47,S44,Интерфакс,2025-07-14,Трамп дал России 50 дней на сделку по украинскому урегулированию. Обобщение,https://www.interfax.ru/world/1036165,high,verified_page
+M48,S45,Интерфакс,2026-01-17,Трамп объявил о пошлинах в отношении ряда стран Европы из-за ситуации с Гренландией,https://www.interfax.ru/world/1068132,high,verified_page
+M49,S46,РБК,2026-01-17,Трамп объявил о введении пошлины 10% против восьми стран из-за Гренландии,https://amp.rbc.ru/rbcnews/politics/17/01/2026/696bbb6a9a7947576322c559,high,verified_page
+M50,S47,Интерфакс-Украина,2025-04-25,"Трамп: Украина никогда не сможет вступить в НАТО, а Крым останется с Россией",https://ru.interfax.com.ua/news/political/1066697.html,high,verified_index_excerpt
+M51,S48,Интерфакс,2020-01-05,Трамп пригрозил нанести удары по 52 объектам Ирана при атаках на американцев,https://www.interfax.ru/world/690211,high,verified_page
+M52,S49,Ведомости,2025-09-23,Трамп: миграционный кризис скатывает Европу в ад,https://www.vedomosti.ru/politics/news/2025/09/23/1141411-tramp-migratsionnii,high,verified_page
+M53,S50,Meduza,2018-09-26,"«Не ожидал такой реакции, но окей». Что сказал Трамп в ООН — и как на это реагировали в зале (например, смеялись)",https://meduza.io/feature/2018/09/26/ne-ozhidal-takoy-reaktsii-no-okey-chto-skazal-tramp-v-oon-i-kak-na-eto-reagirovali-v-zale-naprimer-smeyalis,high,verified_index_excerpt
+M54,S54,Интерфакс,2026-11-08,"Трамп сомневается, что у США будет необходимость возобновить удары по Ирану",https://www.interfax.ru/world/1127704,high,verified_page
+M55,S55,РБК,2018-04-11,Трамп предложил России готовиться к запуску ракет по Сирии,https://www.rbc.ru/politics/11/04/2018/5acdeacf9a79473954b2f7eb,high,verified_page
+M56,S56,РБК,2019-08-23,Трамп потребовал от американских компаний уйти из Китая,https://www.rbc.ru/rbcfreenews/5d601c2b9a79473ba54f6dbd,high,verified_page
+M57,S57,РБК,2025-01-20,Трамп заявил на инаугурации — «Я миротворец»,https://www.rbc.ru/politics/20/01/2025/678e88df9a7947daa4cfbc80,high,verified_index_excerpt
+M58,S57,РБК,2025-01-20,«Революция здравого смысла». О чем Трамп говорил в инаугурационной речи,https://www.rbc.ru/politics/20/01/2025/678e980a9a79471844173ad0,high,verified_index_excerpt
+M59,S58,РБК,2020-10-05,Врачи одобрили выписку Трампа из больницы,https://www.rbc.ru/politics/05/10/2020/5f7b7ec69a79471da97ed30c,high,verified_index_excerpt
+M60,S59,Интерфакс,2019-02-06,"Трамп заверил, что не допустит построения социализма в США",https://www.interfax.ru/world/649377,high,verified_index_excerpt
+M61,S60,РБК,2017-04-13,Трамп перестал считать НАТО устаревшей организацией,https://www.rbc.ru/rbcfreenews/58ee94c49a79472d14a2990c,high,verified_page
+M62,S61,Интерфакс,2018-01-06,Трамп снова назвал заявления о его сговоре с Россией ложью,https://www.interfax.ru/world/594532,high,verified_page
+M63,S61,Московский комсомолец,2018-01-06,"Трамп назвал себя ""стабильным гением""",https://www.mk.ru/amp/politics/2018/01/06/tramp-nazval-sebya-stabilnym-geniem.html,high,verified_index_excerpt
+M64,S62,NEWS.am,2025-05-01,Трамп о тарифах на китайский импорт: «Возможно у детей будут две куклы вместо 30»,https://news.am/rus/news/880408.html,high,verified_page
+M65,S63,Интерфакс,2018-01-03,"Трамп рассказал лидеру КНДР о своей ""ядерной кнопке""",https://www.interfax.ru/world/594306,high,verified_index_excerpt
+M66,S63,РБК,2018-01-06,Twitter отказался блокировать аккаунты избранных мировых лидеров,https://www.rbc.ru/society/06/01/2018/5a50141a9a79475b1911b507,high,verified_index_excerpt
+M67,S64,Euronews,2019-09-24,"Трамп: ""будущее принадлежит патриотам""",https://ru.euronews.com/2019/09/24/trump-future-belongs-to-patriots,high,verified_index_excerpt
+M68,S65,NEWS.am,2019-09-24,"Трамп пообещал ужесточать санкции в отношении Ирана, пока он не изменит политику",https://news.am/ru/news/535202,high,verified_index_excerpt
+M69,S66,РБК,2025-03-27,Трамп объявил о 25-процентных тарифах на импорт автомобилей,https://www.rbc.ru/politics/27/03/2025/67e4853a9a7947d729c77c14,high,verified_page
+M70,S66,Интерфакс,2025-03-27,Трамп заявил о решении ввести пошлины в 25% на произведенные вне США автомобили,https://www.interfax.ru/amp/1016773,high,verified_index_excerpt
+M71,S68,РБК,2025-03-27,Трамп предостерег ЕС и Канаду от совместных действий против США,https://www.rbc.ru/rbcfreenews/67e511629a79479fee86c036,high,verified_page
+M72,S69,Интерфакс,2025-01-23,Трамп пообещал требовать от стран НАТО тратить 5% ВВП на оборону,https://www.interfax.ru/world/1004375,high,verified_page
+M73,S70,Фонтанка,2025-01-23,«Революция здравого смысла»: Трамп выступил на Давосском форуме и призвал снизить цены на нефть для остановки конфликта на Украине,https://www.fontanka.ru/2025/01/23/75021590/,high,verified_index_excerpt
+M74,S70,Интерфакс,2025-01-23,Цены на нефть резко ушли в минус на заявлениях Трампа,https://www.interfax.ru/business/1004378,high,verified_index_excerpt
+M75,S72,Коммерсантъ,2025-05-13,США намерены снять санкции с Сирии,https://www.kommersant.ru/doc/7714165,high,verified_page
+M76,S72,Интерфакс-Россия,2025-05-13,"Трамп заявляет, что собирается отменить санкции против Сирии",https://www.interfax-russia.ru/military/news/644232,high,verified_index_excerpt
+M77,S73,Интерфакс,2019-10-27,Дональд Трамп подтвердил ликвидацию Абу Бакра аль-Багдади,https://www.interfax.ru/world/681936,high,verified_index_excerpt
+M78,S74,Интерфакс,2025-05-27,"Трамп назвал своей заслугой, что РФ не столкнулась с ""по-настоящему плохими вещами""",https://www.interfax.ru/world/1028103,high,verified_page
+M79,S75,Интерфакс,2025-05-28,"Присоединение Канады к создаваемому США ""Золотому куполу"" обойдется в $61 млрд",https://www.interfax.ru/world/1028150,high,verified_page
+M80,S75,РБК,2025-05-28,Трамп предложил Канаде защиту «Золотым куполом» за $0 как штату США,https://www.rbc.ru/rbcfreenews/68365fe69a794761e3bf0044,high,verified_page
+M81,S76,Интерфакс,2017-02-18,Трамп назвал ведущие американские СМИ врагами народа,https://www.interfax.ru/world/550416,high,verified_page
+M82,S76,Ведомости,2017-02-18,"Трамп назвал New York Times, NBC News и CNN врагами народа",https://www.vedomosti.ru/politics/news/2017/02/18/678241-tramp-nazval-nbc-i-cnn-vragami,high,verified_index_excerpt
+M83,S77,Ведомости,2017-03-04,Трамп обвинил Обаму в прослушивании его телефонов перед выборами,https://www.vedomosti.ru/politics/news/2017/03/04/679932-tramp-obvinil-obamu-v-proslushivanii-telefonov,high,verified_index_excerpt
+M84,S78,РБК,2017-05-31,Трамп предложил читателям Twitter разгадать значение слова «covfefe»,https://www.rbc.ru/rbcfreenews/592eb86a9a7947da6d13956a,high,verified_page
+M85,S78,Интерфакс,2017-05-31,Трамп удалил твит с загадочным словом covfefe,https://m.interfax.ru/564632,high,verified_index_excerpt
+M86,S79,Интерфакс-Россия,2018-07-23,Трамп настоятельно советует Рухани не угрожать Штатам (расширенная версия),https://www.interfax-russia.ru/military/news/486555,high,verified_index_excerpt
+M87,S80,NEWS.am,2026-01-21,"Трамп заявил, что «Совет мира» может стать заменой ООН",https://news.am/ru/news/926371,high,verified_index_excerpt
+M88,S80,Коммерсантъ,2026-01-22,Мир да совет,https://www.kommersant.ru/doc/8364735,high,verified_index_excerpt
+M89,S81,NEWS.am,2026-01-21,"Трамп заявил, что должен был получить Нобелевскую премию мира за «каждую войну», которую он прекратил",https://news.am/ru/news/926279,high,verified_index_excerpt
+M90,S82,Trend,2018-07-24,Трамп: США будут с помощью пошлин вынуждать другие страны заключать торговые сделки,https://ru.trend.az/world/usa/2932997.html,high,verified_index_excerpt
+M91,S83,NEWS.am,2020-04-18,"Трамп выступил в защиту своих твитов, в которых он одобрил протесты против жестких мер карантина",https://news.am/ru/news/573329,high,verified_index_excerpt
+M92,S84,Интерфакс,2025-01-31,Трамп пригрозил членам БРИКС стопроцентными пошлинами в случае отказа от доллара США,https://www.interfax.ru/world/1005594,high,verified_index_excerpt
+M93,S84,Ведомости,2025-01-31,Трамп пригрозил тарифами за создание валюты БРИКС,https://www.vedomosti.ru/politics/news/2025/01/31/1089400-tramp-prigrozil,high,verified_index_excerpt
+M94,S85,Коммерсантъ,2025-05-05,Трамп заявил о введении 100-процентных пошлин на иностранные фильмы,https://www.kommersant.ru/doc/7695612,high,verified_index_excerpt
+M95,S85,Ведомости,2025-05-05,Трамп намерен ввести 100%-ный тариф на зарубежные фильмы,https://www.vedomosti.ru/politics/news/2025/05/05/1108237-tramp-nameren-vvesti//,high,verified_index_excerpt
+M96,S85,Афиша Daily,2025-05-05,"Дональд Трамп ввел пошлины на фильмы, снятые за пределами США",https://daily.afisha.ru/news/97832-donald-tramp-vvel-poshliny-na-zarubezhnye-filmy/,high,verified_index_excerpt
+M97,S86,Интерфакс,2025-05-05,"Федеральное бюро тюрем США готово обеспечить возобновление работы тюрьмы ""Алькатрас""",https://www.interfax.ru/world/1024182,high,verified_index_excerpt
+M98,S87,Интерфакс,2025-05-04,"Трамп заявил, что не рассматривает возможность третьего президентского срока",https://www.interfax.ru/amp/1024002,high,verified_index_excerpt
+M99,S87,Ведомости,2025-05-04,Трамп заявил об отсутствии намерения баллотироваться на третий срок,https://www.vedomosti.ru/politics/news/2025/05/04/1108185-tramp-otsutstvii-namereniya,high,verified_index_excerpt
+M100,S88,Интерфакс-Россия,2025-05-05,Трамп не исключает использования военной силы для получения контроля над Гренландией,https://www.interfax-russia.ru/military/news/643548,high,verified_index_excerpt
+M101,S89,Euronews,2025-05-04,Трамп: мир между Украиной и Россией может оказаться недостижимым,https://ru.euronews.com/2025/05/04/trump-on-ukraine-and-third-term,high,verified_page
+M102,S90,Интерфакс,2025-01-20,Трамп объявил о планах высадки на Марс,https://www.interfax.ru/world/1003823,high,verified_index_excerpt
+M103,S90,РБК,2025-01-20,Трамп объявил о подготовке миссии США на Марс,https://amp.rbc.ru/rbcnews/politics/20/01/2025/678e8a229a79472d12baf898,high,verified_index_excerpt
+M104,S91,Интерфакс,2025-01-20,Трамп обещает вернуть США контроль над Панамским каналом,https://www.interfax.ru/world/1003821,high,verified_index_excerpt
+M105,S92,Интерфакс,2025-01-20,"Трамп подтвердил, что переименует Мексиканский залив в Американский",https://m.interfax.ru/1003822,high,verified_index_excerpt
+M106,S92,РБК,2025-01-20,Трамп объявил о переименовании Мексиканского залива в Американский,https://www.rbc.ru/rbcfreenews/678e8dd29a7947c6d4faf1c9,high,verified_index_excerpt
+M107,S93,Коммерсантъ,2017-04-19,Дональд Трамп призвал покупать американское и нанимать американцев,https://www.kommersant.ru/doc/3275567,high,verified_page
+M108,S94,Ведомости,2017-01-20,Трамп пообещал покончить с исламским терроризмом,https://www.vedomosti.ru/politics/news/2017/01/20/674254-tramp-poobeschal,high,verified_index_excerpt
+M109,S94,NEWS.am,2017-01-20,Трамп пообещал полностью уничтожить «радикальный исламский терроризм»,https://news.am/ru/news/368803,high,verified_index_excerpt
+M110,S95,Ведомости,2020-03-24,Трамп хочет снять введенные из-за коронавируса ограничения до 12 апреля,https://www.vedomosti.ru/politics/news/2020/03/24/826127-tramp-hochet-snyat-ogranicheniya,high,verified_index_excerpt
+M111,S95,Интерфакс-Украина,2020-03-24,Трамп хотел бы к 12 апреля снять ограничения на связь США с внешним миром,https://ru.interfax.com.ua/news/general/649719-amp.html,high,verified_index_excerpt
+M112,S96,Интерфакс,2020-05-08,"Трамп заявил, что коронавирус исчезнет, даже если ученые не изобретут вакцину",https://www.interfax.ru/world/707931,high,verified_index_excerpt
+M113,S97,Интерфакс,2017-02-05,Трамп оценил перспективы своих отношений с Путиным,https://www.interfax.ru/world/548523,high,verified_page
+M114,S99,РБК,2018-07-11,Трамп назвал Германию «заложницей» России,https://www.rbc.ru/politics/11/07/2018/5b45bb379a794731c63bb439,high,verified_page
+M115,S100,Ведомости,2019-08-23,Инвесторы хотят ясности от центробанков,https://www.vedomosti.ru/economics/articles/2019/08/23/809505-investori,high,verified_index_excerpt
+M116,S101,РБК,2018-07-20,Трамп пообещал стать «худшим врагом» Путина в случае разлада с ним,https://www.rbc.ru/rbcfreenews/5b510ffc9a7947d4bfed6dd5,high,verified_index_excerpt
+M117,S101,Интерфакс,2018-07-20,"Трамп назвал условие, при котором Путин может стать его злейшим врагом",https://www.interfax.ru/world/621800,high,verified_index_excerpt
+M118,S102,Интерфакс,2025-04-17,Трамп раскритиковал главу ФРС Пауэлла и пожелал ему скорейшего ухода,https://www.interfax.ru/world/1021384,high,verified_index_excerpt
+M119,S102,РБК,2025-04-17,Трамп призвал отправить в отставку главу ФРС,https://www.rbc.ru/politics/17/04/2025/6800d7c99a79471fb50f24aa,high,verified_index_excerpt
+M120,S102,NEWSru.co.il,2025-04-17,Трамп раскритиковал главу ФРС и призвал к его отставке,https://www.newsru.co.il/finance/17apr2025/trump321.html/amp/,high,verified_index_excerpt
+M121,S103,Ведомости,2025-02-19,Трамп назвал Зеленского диктатором из-за отказа в проведении выборов,https://www.vedomosti.ru/politics/articles/2025/02/19/1093220-tramp-nazval-zelenskogo,high,verified_index_excerpt
+M122,S103,РБК,2025-02-19,Трамп назвал Зеленского «диктатором без выборов»,https://www.rbc.ru/politics/19/02/2025/67b5ffc69a7947639ea2c2d9,high,verified_index_excerpt
+M123,S103,РИАМО,2025-02-19,"Трамп назвал Зеленского «диктатором без выборов», который потеряет страну",https://riamo.ru/news/politika/tramp-nazval-zelenskogo-diktatorom-bez-vyborov-kotoryj-poterjaet-stranu/,high,verified_index_excerpt
+M124,S104,РБК,2026-01-13,"Трамп обратился к протестующим в Иране и заявил, что «помощь уже в пути»",https://www.rbc.ru/politics/13/01/2026/69665e1b9a794702ce8c9112,high,verified_index_excerpt
+M125,S104,Коммерсантъ,2026-01-13,Трамп пообещал скорую помощь протестующим в Иране,https://www.kommersant.ru/doc/8340633,high,verified_index_excerpt
+M126,S104,Евроньюс,2026-01-13,"Трамп — иранцам: «Продолжайте протесты, помощь уже в пути»",https://ru.euronews.com/2026/01/13/iran-trump-promices-help,high,verified_index_excerpt
+M127,S105,NEWS.am,2026-01-13,Трамп в очередной раз обратился к протестующим в Иране: «Помощь уже в пути»,https://news.am/ru/news/925016,high,verified_index_excerpt
+M128,S106,РБК,2026-01-20,Президент США пошутил о планах на «залив Трампа»,https://www.rbc.ru/rbcfreenews/696fe3b09a7947b10c232464,high,verified_page
+M129,S107,РБК,2020-09-22,Трамп попросил ООН наказать Китай за распространение коронавируса,https://www.rbc.ru/rbcfreenews/5f6a111f9a79476a9b0cbd75,high,verified_index_excerpt
+M130,S107,РБК,2020-09-22,Против санкций и пандемии: главные выступления на Генассамблее ООН,https://www.rbc.ru/photoreport/22/09/2020/5f6a1fa09a79477187c69bc3,high,verified_index_excerpt
+M131,S108,Интерфакс,2019-02-05,"Трамп заявил о готовности создать ""живую стену"" из военных на границе с Мексикой",https://www.interfax.ru/world/649311,high,verified_index_excerpt
+M132,S108,НТС,2019-02-05,Трамп готов построить «живую стену» на границе с Мексикой,https://nts-tv.com/news/tramp-gotov-postroit-zhivuyu-stenu-na-granitse-s-m-12746/,high,verified_index_excerpt
+M133,S109,РБК,2017-08-22,Трамп заявил о недопустимости поспешного вывода войск из Афганистана,https://www.rbc.ru/politics/22/08/2017/599b94b39a7947f87899965f,high,verified_page
+M134,S110,FaceNews.ua,2017-08-22,Трамп объявил об усилении поддержки Афганистана,https://www.facenews.ua/news/2017/372227/,high,verified_index_excerpt
+M135,S111,РБК,2019-02-15,Трамп пообещал подписать указ о введении в США ЧП для постройки стены,https://www.rbc.ru/rbcfreenews/5c66f4349a7947bf6209e456,high,verified_index_excerpt
+M136,S112,Интерфакс,2018-04-12,"Трамп заявил о нанесении удара по Сирии ""очень скоро"" или ""совсем не скоро""",https://m.interfax.ru/608211,high,verified_index_excerpt
+M137,S112,РБК,2018-04-12,Глава Пентагона рассказал о поиске доказательств химической атаки в Сирии,https://www.rbc.ru/politics/12/04/2018/5acf894d9a794703835fa040,high,verified_index_excerpt
+M138,S112,Интерфакс,2018-04-12,Рубль ускорил рост в четверг днем,https://www.interfax.ru/business/608252,high,verified_index_excerpt
+M139,S113,Ведомости,2020-11-06,Трамп заявил о своей победе на выборах «по законным голосам»,https://www.vedomosti.ru/politics/news/2020/11/06/845997-tramp-zayavil-o-svoei-pobede,high,verified_index_excerpt
+M140,S113,Коммерсантъ,2020-11-06,"Трамп: я побеждаю на выборах, если считать законные голоса",https://www.kommersant.ru/doc/4559982,high,verified_index_excerpt
+M141,S113,РБК,2020-11-06,Трамп назвал условие своей победы на выборах,https://www.rbc.ru/politics/06/11/2020/5fa490df9a7947b83b57a9f1,high,verified_index_excerpt
+M142,S114,Интерфакс,2025-04-23,Трамп не намерен увольнять главу ФРС,https://www.interfax.ru/world/1022193,high,verified_index_excerpt
+M143,S114,РБК,2025-04-23,Трамп отверг планы уволить главу ФРС Джерома Пауэлла и призвал его «быть активнее»,https://www.rbc.ru/politics/23/04/2025/680812b69a794710d37c37fb,high,verified_page
+M144,S114,Report,2025-04-23,Трамп не намерен добиваться отставки главы ФРС,https://report.az/ru/drugie-strany/tramp-ne-nameren-dobivatsya-otstavki-glavy-frs/,high,verified_index_excerpt
+M145,S115,Коммерсантъ,2025-07-16,Дональд Трамп опроверг слухи о скором увольнении главы ФРС,https://www.kommersant.ru/doc/7890840,high,verified_page
+M146,S115,РБК,2025-07-16,В Белом доме сообщили о возможном увольнении главы ФРС США,https://www.rbc.ru/politics/16/07/2025/6877c6939a7947af787fce56,high,verified_index_excerpt
+M147,S116,Интерфакс,2025-06-05,Трамп раскритиковал Маска за несогласие с проектом бюджета США,https://www.interfax.ru/world/1029877,high,verified_index_excerpt
+M148,S116,РБК,2025-06-06,«Сошел с ума!»: как переругались Дональд Трамп и Илон Маск,https://www.rbc.ru/politics/06/06/2025/6841fba69a7947d3cbf4c4c9,high,verified_index_excerpt
+M149,S116,Ведомости,2025-06-06,Главные причины и последствия конфликта Трампа и Маска,https://www.vedomosti.ru/politics/articles/2025/06/06/1115481-konflikt-trampa-i-maska,high,verified_index_excerpt
+M150,S117,Ведомости,2026-01-13,Трамп объявил о введении вторичных санкций против торговых партнеров Ирана,https://www.vedomosti.ru/politics/news/2026/01/13/1168808-tramp-o-vvedenii-sanktsii,high,verified_index_excerpt
+M151,S117,Интерфакс,2026-01-13,"Трамп ввел пошлины в 25% для стран, сотрудничающих с Ираном",https://www.interfax.ru/amp/1067273,high,verified_index_excerpt
+M152,S117,РБК,2026-01-13,"Трамп ввел 25-процентные пошлины для стран, сотрудничающих с Ираном",https://amp.rbc.ru/rbcnews/politics/13/01/2026/69656d249a79475ca80fb280,high,verified_index_excerpt
+M153,S118,РБК,2026-01-21,Трамп заявил о соглашении по Гренландии и отменил тарифы против Европы,https://www.rbc.ru/politics/21/01/2026/6971335c9a794731925e11f2,high,verified_index_excerpt
+M154,S118,Радио Свобода,2026-01-21,"Трамп заявил, что пока отложит введение новых пошлин для Европы",https://www.svoboda.org/amp/tramp-zayavil-chto-poka-otlozhit-vvedenie-novyh-poshlin-dlya-evropy/33656044.html,high,verified_index_excerpt
+M155,S118,Евроньюс,2026-01-21,"Трамп отменил введение пошлин для восьми стран ЕС после заключения ""рамочной"" сделки по Гренландии",https://ru.euronews.com/2026/01/21/tramp-otmenil-vvedenie-poshlin-dlya-vosmi-stran-es-posle-ramochnoj-sdelki-po-grenlandii,high,verified_index_excerpt
+M156,S119,РБК,2026-01-12,Трамп приписал себе спасение НАТО,https://www.rbc.ru/politics/12/01/2026/6964fbcc9a79471d17d6dee0,high,verified_page
+M157,S119,NEWS.am,2026-01-12,Трамп: Я спас НАТО,https://news.am/ru/news/924783,high,verified_index_excerpt
+M158,S119,Oxu.az,2026-01-12,Трамп объявил себя спасителем НАТО,https://oxu.az/ru/v-mire/tramp-obyavil-sebya-spasitelem-nato,high,verified_index_excerpt
+M159,S120,РБК,2026-01-02,Трамп рассказал о результатах сдачи когнитивного теста,https://www.rbc.ru/politics/02/01/2026/6957d4c99a79473af511bf9b,high,verified_index_excerpt
+M160,S120,NEWS.am,2026-01-02,"Трамп заверил, что чувствует себя отлично",https://news.am/ru/news/923374,high,verified_index_excerpt
